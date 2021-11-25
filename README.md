@@ -2,4 +2,7 @@
 ![Visits](https://visitor-badge.glitch.me/badge?page_id=${your.username})
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
