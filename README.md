@@ -1,34 +1,17 @@
-const TheMDev = {
-    pronouns: "He" | "Him",
-    code: [
-      "JavaScript",
-      "HTMC",
-      "CSS",
-      "NodeJS",
-      "PHP"
-    ],
-    askMeAbout: [
-      "web dev",
-      "tech",
-      "app dev"
-    ],
-    technologies: {
-        backEnd: {
-            js: [
-              "Node",
-              "Express"
-            ],
-        },
-        devOps: [
-          "Docker🐳"
-        ]
-        databases: [
-          "MongoDB",
-          "MySQL"
-        ],
-        misc: [
-          "PHP"
-        ]
-    },
-    currentFocus: "m1main repositoory"
-};
+## The M. Dev
+
+###### About Me
+
+- Michael
+- 19 years old
+- Passionate about programming, games and music!
+- Looking for a half-time job!
+
+###### To-do list
+
+- [ ] https://github.com/them-dev/m1main/issues/1
+- [ ] https://github.com/them-dev/m1main/issues/2
+- [ ] https://github.com/them-dev/m1main/issues/3
+- [ ] https://github.com/them-dev/m1main/issues/4
+- [ ] https://github.com/them-dev/m1main/issues/5
+- [x] https://github.com/them-dev/m1main/issues/6
