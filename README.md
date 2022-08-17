@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/thumb_back/fw800/background/20220522/pngtree-programming-and-coding-banner-working-image_1375029.jpg)(https://github.com/TheMDev-Portfolio)
+[![MasterHead](https://png.pngtree.com/thumb_back/fw800/background/20220522/pngtree-programming-and-coding-banner-working-image_1375029.jpg)
 <h1 align="center">Hello, I'm Michael!</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
