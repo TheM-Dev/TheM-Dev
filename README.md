@@ -1,6 +1,6 @@
 [![MasterHead](https://png.pngtree.com/thumb_back/fw800/background/20220522/pngtree-programming-and-coding-banner-working-image_1375029.jpg)
 <h1 align="center">Hello, I'm Michael!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">19yo Backend developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=them-dev&label=Profile%20views&color=00ffcc&style=flat-square" alt="them-dev" /> </p>
 
