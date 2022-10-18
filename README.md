@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Michael!</h1>
-<h3 align="center">19yo Backend developer from Poland</h3>
+<h3 align="center">19yo Javascript developer from Poland</h3>
 
 [My portfolio](https://github.com/TheMDev-Portfolio)<br/>
 [My NPM Packages](https://www.npmjs.com/~@__mdev/)
