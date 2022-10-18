@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Michael!</h1>
 <h3 align="center">19yo Javascript developer from Poland</h3>
 
-[My portfolio]([https://github.com/TheMDev-Portfolio](https://github.com/m1DevProjects))<br/>
+[My portfolio]([https://github.com/TheMDev-Portfolio](https://github.com/m1DevProjects)<br/>
 [My NPM Packages](https://www.npmjs.com/~@__mdev/)<br/>
 
 <h3 align="left">Languages and tools I use:</h3>
