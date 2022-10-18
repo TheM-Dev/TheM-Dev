@@ -53,4 +53,10 @@
             alt="vuejs" width="40" height="40" /> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" /> </a>
 </p>
-
+<p align="left">
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <label for="bootstrap">Bootstrap: </label>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
+        <progress id="bootstrap" value="32" max="100" style="box-sizing: content-box; height: 20px; /* Can be anything */ position: relative; margin: 60px 0 20px 0; /* Just for demo spacing */ background: #555; border-radius: 25px; padding: 10px; box-shadow: inset 0 -1px 1px rgba(255, 255, 255, 0.3);"></progress>
+    </a> 
+</p>
