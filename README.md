@@ -17,7 +17,7 @@
 
 ### Languages
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/them-dev)
-[![Node.js](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodejs)](https://github.com/them-dev)
+[![Node.js](https://img.shields.io/badge/node-black?style=for-the-badge&logo=node)](https://github.com/them-dev)
 
 
 ### Technologies & Frameworks
