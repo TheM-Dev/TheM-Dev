@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Micha.<br>
+        I'm Michał.<br>
         Currently learning how to code in Typescript.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
