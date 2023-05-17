@@ -17,18 +17,20 @@
 
 ### Languages
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/them-dev)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/them-dev)
 [![Node.js](https://img.shields.io/badge/node-black?style=for-the-badge&logo=node)](https://github.com/them-dev)
-
 
 ### Technologies & Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)
 [![Express.js](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/them-dev)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/them-dev)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/them-dev)
+[![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwind)](https://github.com/them-dev)
+[![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/them-dev)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/them-dev)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/them-dev)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/them-dev)
 
 <details>
 <p align="center">
